@@ -1,0 +1,28 @@
+name: dgapr_app
+description: DGAPR official app - scaffold
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ">=2.18.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.6
+  cached_network_image: ^3.2.3
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.17.0
+  url_launcher: ^6.1.7
+  firebase_core: ^2.10.0
+  firebase_messaging: ^14.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/mock/mock_news.json

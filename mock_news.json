@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "title": "بلاغ صحفي: إطلاق خدمة جديدة للمواطن",
+      "excerpt": "أعلنت DGAPR عن إطلاق خدمة جديدة تهدف إلى تسهيل تواصل المواطن مع الإدارة.",
+      "body": "تفاصيل البلاغ: تم إطلاق خدمة جديدة تسمح للمواطنين ب...",
+      "date": "2025-10-20",
+      "image": "https://via.placeholder.com/600x300.png?text=DGAPR+News+1",
+      "pdf": "https://www.dgapr.gov.ma/uploads/sample.pdf"
+    },
+    {
+      "title": "إعلان: مباراة للعمل",
+      "excerpt": "إعلان عن مباراة توظيف برتبة تقني من الدرجة الثالثة.",
+      "body": "تفاصيل المباراة وكيفية الترشح...",
+      "date": "2025-09-15",
+      "image": "https://via.placeholder.com/600x300.png?text=DGAPR+News+2",
+      "pdf": null
+    }
+  ]
+}
